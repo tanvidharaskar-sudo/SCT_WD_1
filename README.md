@@ -24,6 +24,4 @@ It helps users easily navigate different sections of a website.
 - style.css
 - script.js
 
-## 👩‍💻 Author
-Manisha Dharaskar
 
